@@ -1,4 +1,4 @@
-function [M, ATRTIMED, ANNOTD, TIME] = loadECGdata(recordName, PATH, SAMPLES2READ)
+function [M, ATRTIMED, ANNOTD, TIME] = loadECGData(recordName, PATH, SAMPLES2READ)
 % loadECGData - Load ECG data from the MIT-BIH database
 %
 % Inputs:
